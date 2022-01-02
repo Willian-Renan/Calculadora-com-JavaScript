@@ -1,4 +1,4 @@
 # Calculadora-com-JavaScript
 
-Link:
+Links:
 https://willian-renan.github.io/Calculadora-com-JavaScript/
